@@ -1,4 +1,4 @@
-# Simulation
+# ROS 2 Humble and Gazebo Simulation
 
 This repository contains the technical implementation for simulation task. It features a general-purpose robot model developed in ROS 2 Humble and Gazebo to demonstrate core robotics tasks, sensor integration, and environmental interaction[cite: 2].
 
