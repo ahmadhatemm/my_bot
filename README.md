@@ -1,6 +1,6 @@
-# ASU ROAR'26 – Solo Mission: Part 2 Simulation
+# Simulation
 
-This repository contains the technical implementation for the Part 2 Simulation track of the Solo Mission[cite: 2]. It features a general-purpose robot model developed in ROS 2 Humble and Gazebo to demonstrate core robotics tasks, sensor integration, and environmental interaction[cite: 2].
+This repository contains the technical implementation for simulation task. It features a general-purpose robot model developed in ROS 2 Humble and Gazebo to demonstrate core robotics tasks, sensor integration, and environmental interaction[cite: 2].
 
 ### Project Structure
 The files are organized as follows based on the simulation requirements[cite: 2]:
